@@ -4,7 +4,7 @@ class RegistrationForm extends React.Component {
   render() {
     return (
       <div className="regform">
-        <form>
+        <form
           <input type="text"> </input>
           <input type="password"> </input>
         </form>
