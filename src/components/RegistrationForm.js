@@ -5,10 +5,10 @@ class RegistrationForm extends React.Component {
     return (
       <div>
         <form>
-          <input className: "text"> </input>
-          <input className: "password"> </input>
+          <input type: "text"> </input>
+          <input type: "password"> </input>
         </form>
-        <button className: "submit"> </button>
+        <button type: "submit"> </button>
       </div>
     )
   }
