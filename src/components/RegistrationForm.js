@@ -1,6 +1,6 @@
 import React from 'react';
 
-class RegistrationForm extends React.Component {
+export class RegistrationForm extends React.Component {
   render() {
     return (
       <div>
