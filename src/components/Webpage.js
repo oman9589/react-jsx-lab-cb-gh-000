@@ -5,7 +5,8 @@ class Webpage extends React.Component {
     return (
       <div
         <h1 text="The worlds coolest webpage"/>
-        <
+        <{FillerText}>
+      </div>
     )
   }
 }
