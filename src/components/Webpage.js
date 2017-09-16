@@ -5,7 +5,7 @@ class Webpage extends React.Component {
   render() {
     return (
       <div className='page'>
-        <title>The worlds coolest webpage</title>
+        <h1>The worlds coolest webpage</h1>
         <FillerText />
         <FillerText />
       </div>
