@@ -5,9 +5,9 @@ class RegistrationForm extends React.Component {
     return (
       <div className="regform">
         <form/>
-          <input type="text"> </input>
-          <input type="password"> </input>
-        <button type="submit"> </button>
+        <input type="text"/>
+        <input type="password"/>
+        <button type="submit"/>
       </div>
     )
   }
