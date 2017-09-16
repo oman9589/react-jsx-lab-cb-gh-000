@@ -3,7 +3,7 @@ import React from 'react';
 class Webpage extends React.Component {
   render() {
     return (
-      <p "The worlds coolest webpage"> </p>
+      <p text="The worlds coolest webpage"> </p>
     )
   }
 }
