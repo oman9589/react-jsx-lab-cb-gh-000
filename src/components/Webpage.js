@@ -6,6 +6,7 @@ class Webpage extends React.Component {
       <div>
         <h1 text="The worlds coolest webpage"/>
         <FillerText />
+        <FillerText />
       </div>
     )
   }
